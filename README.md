@@ -1,6 +1,6 @@
-# meals
+# meals app - Yum Tum
 
-A new Flutter project.
+An app which gives you description of various types of dishes, also allowing you to label them as your favorites and filtering the meals based on your personal preferences.
 
 ## Getting Started
 
